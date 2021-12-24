@@ -12,9 +12,9 @@ Run Step By Step :
 
     sudo apt install gcc
 
-  Compile C++ File :
+  Compile C File :
 
-    gcc -c PROGRAM.cpp && gcc PROGRAM.o -o PROGRAM.out
+    gcc -c PROGRAM.c && gcc PROGRAM.o -o PROGRAM.out
 
   Run Output File :
 
